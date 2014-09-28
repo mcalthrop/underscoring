@@ -1,0 +1,12 @@
+{
+    "name": "underscoring",
+    "version": "0.0.0",
+    "description": "Investigating underscore",
+    "main": "underscoring.js",
+    "dependencies": {
+        "underscore": "~1.7.0"
+    },
+    "devDependencies": {},
+    "author": "Matt Calthrop",
+    "license": "ISC"
+}
